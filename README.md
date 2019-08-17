@@ -1,7 +1,9 @@
 # 2-player-dice-game
 Author Prateek Singh
+
 version 1.0.0
 # prateeksingh.mech@gmail.com
+#www.linkedin.com/in/renrevo
 Basic JS based Dice Game
 Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the player decides to "hold":
 
